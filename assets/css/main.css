@@ -1644,6 +1644,11 @@ input, select, textarea {
 		position: relative;
 	}
 
+        img.resize {
+        max-width:50%;
+        max-height:50%;
+             }
+
 		.image img {
 			display: block;
 			width: 100%;
